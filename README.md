@@ -13,4 +13,10 @@ http://2015.qconshanghai.com/track/2510
 这次我们请到六位演讲者，作为新时代的先驱者，将为我们带来关于ES6开发实战、React框架和生态、前端工程的前沿实践、前端计算和安全防御、前端工程师职业发展等方面的分享，敬请期待！
 
 ## 讲师介绍
-TODO
+
+### 汤桂川 @lightningtgc
+### 林建锋（小鱼） @sofish
+### 王沛 @supnate
+### 郭达峰 @dfguo
+### 张佳辰 @EtherDream
+### 廖伟华（大漠） @airen
